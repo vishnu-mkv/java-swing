@@ -1,3 +1,6 @@
 # java-swing
 
-Java Swing Components
+Java Swing JDBC
+
+mysql 
+read and create
