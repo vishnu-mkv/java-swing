@@ -1,5 +1,3 @@
 # java-swing
 
-Java Swing Applications
-
-Check out on branches
+Calculator using Java Swing
